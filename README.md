@@ -76,15 +76,20 @@ finance-tracker/
 
 ## Dependencies
 matplotlib==3.8.2
+
 numpy==1.26.3
+
 pillow==10.2.0
+
 python-dateutil==2.8.2
 
 
 ## Screenshots
 
 ![Login Screen](screenshots/login.png)
+
 ![Dashboard](screenshots/dashboard.png)
+
 ![Charts](screenshots/charts.png)
 
 ## Contributing
