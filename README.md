@@ -35,7 +35,7 @@ A Python desktop application for tracking personal finances, managing budgets, a
    - Tkinter (usually comes with Python)
 
 2. **Clone the repository**
-   - git clone https://github.com/yourusername/finance-tracker.git
+   - git clone https://github.com/akshayyborse/finance-tracker.git
    - cd finance-tracker
 
 3. **Install required packages**
