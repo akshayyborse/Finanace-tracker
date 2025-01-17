@@ -59,12 +59,19 @@ A Python desktop application for tracking personal finances, managing budgets, a
 finance-tracker/
 
 ├── main.py # Main application
+
 ├── database.py # Database operations
+
 ├── login_window.py # Login system
+
 ├── expense_tracker.py
+
 ├── budget_manager.py
+
 ├── savings_goals.py
+
 ├── charts.py
+
 └── requirements.txt
 
 ## Dependencies
